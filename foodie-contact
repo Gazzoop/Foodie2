@@ -1,9 +1,0 @@
-Foodie's business and support email is **finn.foodieapp@gmail.com**, under the name Finlay Turnquist. Use it anywhere Foodie shows a contact:
-- the privacy policy and terms of use (docs/),
-- `FoodieLinks.supportEmail` in SettingsView.swift (Contact Support),
-- `BOT_CONTACT` in catalog/main.py,
-- App Store Connect.
-
-Never use the user's personal address for these.
-
-`FoodieLinks.privacyPolicy` stays nil until the policy is hosted online; set it then, so Settings shows the Privacy Policy row. See [[foodie-family-decisions]].
